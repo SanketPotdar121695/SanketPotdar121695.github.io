@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19839094.css",
+    "main.js": "/static/js/main.ceebe4df.js",
+    "static/media/legend-transparent.png": "/static/media/legend-transparent.dfac690fea60990b4870.png",
+    "static/media/Sanket_Potdar_Resume.pdf": "/static/media/Sanket_Potdar_Resume.276938db251a5caec1d4.pdf",
+    "index.html": "/index.html",
+    "main.19839094.css.map": "/static/css/main.19839094.css.map",
+    "main.ceebe4df.js.map": "/static/js/main.ceebe4df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19839094.css",
+    "static/js/main.ceebe4df.js"
+  ]
+}
